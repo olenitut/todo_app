@@ -10,4 +10,4 @@ of saving the tasks on the server, logging into one's account from any device, a
 - BEM
 - Fetch, REST API
 
-    - [DEMO LINK](https://olenitut.github.io/todo_app/)
+    - [DEMO LINK](https://olenitut.github.io/react_todo-app-with-api/)
