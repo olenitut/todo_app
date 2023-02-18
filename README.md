@@ -1,4 +1,13 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Project description
+This is an application for storing one's tasks to be done in one place. It offers the functionality 
+of saving the tasks on the server, logging into one's account from any device, and some filtering. 
+
+# Key technologies used
+- React
+- Typescript
+- CSS 3
+- SASS
+- BEM
+- Fetch, REST API
+
+    - [DEMO LINK](https://olenitut.github.io/todo_app/)
